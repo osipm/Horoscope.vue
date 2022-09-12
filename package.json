@@ -1,8 +1,7 @@
 {
   "name": "horoscope",
   "version": "0.0.0",
-  "homepage": "https://https://osipm.github.io/Horoscope.vue",
-  "scripts": {
+   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
     "preview": "vite preview --port 4173",
