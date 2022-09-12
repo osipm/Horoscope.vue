@@ -1,0 +1,1 @@
+import{e as s,c as n,d as l,o as u}from"./index.92e8bdf4.js";const a={class:"bloc-btn"},_=s({__name:"Button",props:{nextQuestion:null,valueInput:null},setup(t){return(c,e)=>(u(),n("div",a,[t.valueInput?(u(),n("button",{key:0,class:"btn",onClick:e[0]||(e[0]=(...o)=>t.nextQuestion&&t.nextQuestion(...o))},"\u0434\u0430\u043B\u0435\u0435")):l("",!0)]))}});export{_};
